@@ -1,17 +1,19 @@
-Assignment 2: Pyramid Pattern
 Write a Python program to draw a pyramid of "*" using loops and string repetition.
 
-Example Output:
+Example Output
     *
    ***
   *****
  *******
 *********
+
 Guidelines:
 Use a loop to print each row of the pyramid.
 Center align the stars using spaces.
 You may use string multiplication (*) to repeat characters.
+
 Assignment 3: Diamond Pattern
+
 Write a Python program to draw a diamond of "*" using loops and string repetition.
 
 Example Output:
@@ -24,11 +26,14 @@ Example Output:
   *****
    ***
     *
+
 Guidelines:
 First, print the upper pyramid (similar to the previous assignment).
 Then, print the inverted pyramid below it.
 Ensure the diamond remains symmetric.
+
 Assignment 4: Deductive Logic Game - Guess the Secret Number
+
 Write a Python program that implements a deductive logic game where the player must guess a secret three-digit number based on hints.
 
 Game Rules:
@@ -39,6 +44,7 @@ After each guess, the program provides feedback:
 “Ok” or 👍 → A correct digit in the wrong place.
 “Wrong” or ❌ → No correct digits.
 The game ends if the player guesses correctly or exhausts all attempts.
+
 Example Interaction:
 Welcome to the Guessing Game!
 
